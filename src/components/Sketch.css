@@ -1,0 +1,15 @@
+.sketch-div {
+  display: flex;
+  flex-direction: column;
+  background: red;
+}
+
+button {
+  background: #111;
+  padding: 10px;
+  border: 0px;
+  color: #fff;
+  &:hover {
+    cursor: pointer;
+  }
+}
